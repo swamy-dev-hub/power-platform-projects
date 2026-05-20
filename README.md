@@ -1,25 +1,22 @@
-# power-platform-projects
-Welcome to my GitHub repository.
+# Power Platform Projects
 
-This repository contains my beginner learning projects and practice work related to:
+This repository contains Power Platform projects, workflow automation solutions, and application documentation built using Microsoft technologies.
 
-- Microsoft Power Apps
-- Power Automate
-- Workflow Automation
-- Low-code application development
-- Beginner IT solutions
-
-## Goals
-- Improve Power Platform skills
-- Build real-world business applications
-- Learn automation workflows
-- Create a professional project portfolio
-
-## Tools Used
+## Technologies
 - Power Apps
 - Power Automate
-- Excel
 - SharePoint
+- Excel
 - GitHub
 
-Thank you for visiting my repository.
+## Project Areas
+- Leave Approval Applications
+- Workflow Automation
+- Business Process Solutions
+- Low-code Application Development
+
+## Repository Purpose
+- Build practical business applications
+- Document workflows and solutions
+- Maintain project documentation
+- Explore Microsoft Power Platform capabilities
